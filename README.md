@@ -31,8 +31,8 @@ Step 8: Save and run the application.
 ```
 /*
 Program to display animation operation”.
-Developed by: NARRA NANDITHA.
-Registeration Number : 212221040111.
+Developed by: Ajay Surya S.
+Registeration Number : 212221040009
 */
 ```
 #### MainActivity.java
